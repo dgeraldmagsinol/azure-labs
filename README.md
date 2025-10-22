@@ -1,19 +1,46 @@
-# Azure-labs
-Hands-on Azure administration and infrastructure projects aligned with AZ-104
-Covers real-world tasks such as VM deployment, networking, monitoring, and RBAC setup.
+# ☁️ Azure Labs
 
-## Topics Covered
-- Virtual Machines, Storage Accounts, and Networking
-- Monitoring and Log Analytics
-- RBAC and Azure Active Directory
-- Resource Groups and Policies
+This repository contains my hands-on labs and experiments in **Microsoft Azure**, focused on real-world administration and automation tasks.
 
-## Folder Structure
+---
+
+### 🧩 Objectives
+- Strengthen my **Azure Administrator (AZ-104)** knowledge  
+- Practice deployment, configuration, and management of core Azure services  
+- Improve my hands-on skills with **Azure Portal**, **CLI**, and **PowerShell**  
+- Learn best practices in monitoring, RBAC, and cost optimization  
+
+---
+
+### 📘 Topics Covered
+- Virtual Machines and Scale Sets  
+- Virtual Networks and Subnets  
+- Azure Monitor, Log Analytics, and Alerts  
+- Storage Accounts and Data Management  
+- Role-Based Access Control (RBAC)  
+- Resource Group and Subscription Management  
+
+---
+
+### 📁 Repository Structure
 azure-labs/
-- vm-deployment/
-- networking/
-- monitoring/
-- rbac/
+- vm-creation-lab/
+- network-setup-lab/
+- monitoring-lab/
+- rbac-lab/
 
-## Goal
-Strengthen Azure administration and automation skills through repeatable lab exercises
+Each folder contains:
+- Lab steps (Markdown)
+- CLI / PowerShell commands
+- Optional screenshots or diagrams  
+
+---
+
+### 🔗 Related Repositories
+- [Terraform Labs](https://github.com/dgeraldmagsinol/terraform-labs)
+- [Kubernetes Labs](https://github.com/dgeraldmagsinol/kubernetes-labs)
+- [Back to My Profile](https://github.com/dgeraldmagsinol)
+
+---
+
+📅 **Status:** Active — continuously adding new Azure-focused labs.
