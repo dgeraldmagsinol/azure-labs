@@ -16,7 +16,6 @@ You can use the sandbox in the following Microsoft Learn modules:
 - [Create a Linux virtual machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-linux-virtual-machine-in-azure/)
 - [Manage virtual machines with Azure CLI](https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/)
 
-## 📂 Next Steps
-- Add screenshots or CLI command samples from your sandbox  
-- Include JSON or Bicep templates for automated deployments  
-- Link to your Terraform or Kubernetes repos for hybrid examples
+## 🧩 Lab Index
+
+- [Windows Virtual Machine Lab](./windows-vm/README.md) — Deploy and manage a Windows Server VM using the Azure Portal and CLI.
