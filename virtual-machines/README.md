@@ -17,5 +17,7 @@ You can use the sandbox in the following Microsoft Learn modules:
 - [Manage virtual machines with Azure CLI](https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/)
 
 ## 🧩 Lab Index
-
-- [Windows Virtual Machine Lab](./windows-vm/README.md) — Deploy and manage a Windows Server VM using the Azure Portal and CLI.
+| Lab | Description |
+|------|--------------|
+| [🪟 Windows VM](./windows-vm/README.md) | Create and manage a Windows Server VM using Azure Portal and CLI |
+| [🐧 Linux VM](./linux-vm/README.md) | Deploy and manage an Ubuntu Linux VM with SSH access |
