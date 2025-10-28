@@ -24,7 +24,7 @@ This repository contains my hands-on labs and experiments in **Microsoft Azure**
 
 ### 📁 Repository Structure
 azure-labs/
-- vm-creation-lab/
+- virtual-machines/(https://github.com/dgeraldmagsinol/azure-labs/tree/main/virtual-machines)
 - network-setup-lab/
 - monitoring-lab/
 - rbac-lab/
